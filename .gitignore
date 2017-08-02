@@ -1,0 +1,9 @@
+.snakemake/
+RData/
+bam/
+clean/
+fastqc/
+*Rhistory
+table/
+track/
+
